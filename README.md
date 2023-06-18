@@ -1,4 +1,4 @@
-# ELECTION-MANAGEMENT-SYSTEM--JAVA-RMI-REMOTE-METHOD-INVOCATION
+
 # E-Voting Management System
 
 The E-Voting Management System is a distributed application built using Java Remote Method Invocation (RMI) technology. It consists of a client-side and a server-side, allowing users to participate in electronic voting securely and efficiently.
